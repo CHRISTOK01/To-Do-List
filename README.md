@@ -21,7 +21,11 @@ This project is a **simple and interactive To-Do List Manager** that helps users
    - `5️⃣` Exit the program  
 
 ## Example Output
-![Project Image](image.jpg)
-![Project Image](image1.jpg)
-![Project Image](image2.jpg)
-![Project Image](image3.jpg)
+![Project Image](image.jpg)  
+<br>  
+![Project Image](image1.jpg)  
+<br>  
+![Project Image](image3.jpg)  
+<br>  
+![Project Image](image4.jpg)
+
